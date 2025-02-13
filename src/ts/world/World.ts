@@ -162,9 +162,9 @@ export class World
 				this.setTimeScale(1);
 	
 				Swal.fire({
-					title: 'Welcome to Sketchbook!',
+					title: 'Welcome to Choony World!',
 					text: 'Feel free to explore the world and interact with available vehicles. There are also various scenarios ready to launch from the right panel.',
-					footer: '<a href="https://github.com/swift502/Sketchbook" target="_blank">GitHub page</a><a href="https://discord.gg/fGuEqCe" target="_blank">Discord server</a>',
+					footer: '<a href="https://choony-dev.github.io" target="_blank">choony-dev</a>',
 					confirmButtonText: 'Okay',
 					buttonsStyling: false,
 					onClose: () => {
